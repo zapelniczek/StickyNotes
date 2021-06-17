@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/Window/Main">
+        <file>images/exit.png</file>
+        <file>images/plus.png</file>
+        <file>images/settings.png</file>
+        <file>images/filter.png</file>
+    </qresource>
+    <qresource prefix="/Note/Buttons">
+        <file>images/bold.png</file>
+        <file>images/bullet-list.png</file>
+        <file>images/italic.png</file>
+        <file>images/underline.png</file>
+        <file>images/palette.png</file>
+    </qresource>
+    <qresource prefix="/ColorSelector/Icons">
+        <file>images/checked.png</file>
+    </qresource>
+    <qresource prefix="/nSubWindow/Button">
+        <file>images/more.png</file>
+        <file>images/delete.png</file>
+        <file>images/view.png</file>
+        <file>images/hide.png</file>
+        <file>images/full-size.png</file>
+    </qresource>
+    <qresource prefix="/Note/Category">
+        <file>images/g.png</file>
+        <file>images/work.png</file>
+        <file>images/exclamation.png</file>
+        <file>images/chat.png</file>
+        <file>images/wine.png</file>
+    </qresource>
+    <qresource prefix="/SettingsDialog/Icons">
+        <file>images/left-arrow.png</file>
+    </qresource>
+    <qresource prefix="/StickyNotes/Entry">
+        <file>images/entry.png</file>
+    </qresource>
+    <qresource prefix="/AzureLogin/Icons">
+        <file>images/hide.png</file>
+        <file>images/view.png</file>
+    </qresource>
+</RCC>
