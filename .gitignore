@@ -1,0 +1,8 @@
+#Ignore files created by Qt Creator
+*ui_*
+*Makefile*
+*qmake.stash
+StickyNotes.pro.user
+stickynotes.ui.JeuCYB
+#Ignore subfolders
+*/*
